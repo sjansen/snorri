@@ -1,0 +1,14 @@
+# Directories
+/.idea/
+/.vscode/
+/archive/
+
+# Files
+/snorri
+/TODO
+.DS_Store
+coverage.txt
+
+# Patterns
+.*.sw[op]
+*.pdf
